@@ -1,0 +1,38 @@
+import { StyleSheet, Text, View, ScrollView, Image } from 'react-native'
+import React from 'react'
+
+export default function Bolum20konu4() {
+    return (
+        <ScrollView>
+          <Text style={styles.text}>
+          ●Bir string karakterlerine, köşeli parantez içindeki dizin numarasına bakarak erişebiliriz.
+          </Text>
+          <Text style={styles.text2}>
+            #include {"<iostream>"}
+            {"\n"}
+            {"\n"}
+            #include {"<string>"}
+            {"\n"}
+            {"\n"}
+            using namespace std;{"\n"}
+            {"\n"}
+            int main() {"{"}
+            {"\n"}
+            {"\n"}
+            string selam = "Merhaba";{"\n"}
+            {"\n"}
+            cout {"<<"} selam[0];{"\n"}
+            {"\n"}
+            return 0;{"\n"}
+            {"\n"}
+            {"}"}
+          </Text>
+          <Image
+            style={styles.img20_4}
+            source={require("../../assets/bolum20konu4.webp")}
+          />
+        </ScrollView>
+      );
+    }
+   
+import styles from "../screens/styles";

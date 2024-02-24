@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCxKNOrdTx7D0-8L5VqdAD4hyOHrwcSMrI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>238892524845</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>melike</string>
+	<key>PROJECT_ID</key>
+	<string>istekdersnotlari</string>
+	<key>STORAGE_BUCKET</key>
+	<string>istekdersnotlari.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:238892524845:ios:5f53d5c3ca3f5c945f1fa4</string>
+</dict>
+</plist>

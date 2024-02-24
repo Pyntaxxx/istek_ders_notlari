@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "238892524845",
+    "project_id": "istekdersnotlari",
+    "storage_bucket": "istekdersnotlari.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238892524845:android:f83dcb4b42da23525f1fa4",
+        "android_client_info": {
+          "package_name": "com.melike"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWwrA-yGGfNGZXSUKednnwkdnMYPjTurQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
